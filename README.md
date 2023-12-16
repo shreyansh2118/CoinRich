@@ -1,16 +1,8 @@
-# apipractice
+# CoinRich
 
 A new Flutter project.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![Screenshot_20231216-131645](https://github.com/shreyansh2118/CoinRich/assets/111567940/e3eea024-b882-42e0-87f4-cee4cbb23687)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
